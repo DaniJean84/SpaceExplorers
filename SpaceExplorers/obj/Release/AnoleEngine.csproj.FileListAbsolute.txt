@@ -1,0 +1,13 @@
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\AnoleEngine.exe.config
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\AnoleEngine.exe
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\AnoleEngine.pdb
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\OpenTK.Compatibility.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\OpenTK.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\sfmlnet-audio-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\sfmlnet-graphics-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\sfmlnet-system-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\sfmlnet-window-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Release\AnoleEngine.csproj.CoreCompileInputs.cache
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Release\AnoleEngine.exe
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Release\AnoleEngine.pdb
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Release\MathNet.Numerics.dll

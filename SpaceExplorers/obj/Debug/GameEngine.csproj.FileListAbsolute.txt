@@ -1,0 +1,12 @@
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.Compatibility.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\OpenTK.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\sfmlnet-audio-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\sfmlnet-graphics-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\sfmlnet-system-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\bin\Debug\sfmlnet-window-2.dll
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Debug\GameEngine.csprojResolveAssemblyReference.cache
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+c:\Projects\GameEngine2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
